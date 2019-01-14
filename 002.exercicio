@@ -1,0 +1,8 @@
+import os
+
+os.system('cls')
+print ("Digite um numero");
+num1=input('Entre com o primeiro valor: ')
+
+
+print ('O numero digitado foi',num1)
