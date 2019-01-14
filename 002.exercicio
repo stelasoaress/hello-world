@@ -6,4 +6,4 @@ num1=input('Entre com o primeiro valor: ')
 
 
 print ('O numero digitado foi',num1)
-.
+print (' Teste final de execucao' ) 
